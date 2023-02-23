@@ -1,10 +1,18 @@
 import styled from "styled-components";
 
+// Imagens, background
+import BackgroundHeader from "../../assets/img/Cover.png";
+
 export const HeaderContainer = styled.header`
-    max-width: 100vw;
-    max-height: 18.5vh;
+    width: 100%;
+    height: 18.5rem;
+    background: url(${BackgroundHeader}) no-repeat center;
+    background-size: cover;
     display: flex;
+    align-items: center;
     justify-content: center;
-    margin: 3rem 0 3rem 0;
-    background-color: ${({ theme }) => theme.colors["base-background"]}
+
+  img {
+    margin-bottom: 5rem;
+  }
 `;
