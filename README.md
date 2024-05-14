@@ -1,6 +1,6 @@
 ## Github Blog <br>
 
-Github Blog  édinâmico e interativo que se conecta diretamente à API do GitHub. Nele, os posts são carregados diretamente do repositório, especificamente da seção de Issues. Assim, toda vez que um novo issue é criado, ele é automaticamente exibido no blog, proporcionando uma experiência contínua e atualizada para os leitores.
+Github Blog  é dinâmico e interativo que se conecta diretamente à API do GitHub. Nele, os posts são carregados diretamente do repositório, especificamente da seção de Issues. Assim, toda vez que um novo issue é criado, ele é automaticamente exibido no blog, proporcionando uma experiência contínua e atualizada para os leitores.
 
 Além disso, o blog apresenta uma seção de perfil que exibe informações como imagem, nome e outras informações disponíveis na API do GitHub. Os usuários também podem fazer buscas específicas por postagens utilizando um campo de busca integrado.
 
